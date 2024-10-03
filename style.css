@@ -1,0 +1,27 @@
+header {
+  text-align: center;
+  background-color: rgb(208, 203, 203);
+}
+
+.h1 header {
+  font-family: cursive;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+footer {
+  text-align: center;
+  background-color: gray;
+}
